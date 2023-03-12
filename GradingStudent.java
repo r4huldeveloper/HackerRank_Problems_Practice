@@ -1,4 +1,4 @@
-class Result {
+class GradingStudent {
 
     /*
      * Complete the 'gradingStudents' function below.
